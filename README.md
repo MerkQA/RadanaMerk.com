@@ -1,2 +1,2 @@
-# RadanaMerk.com
+# CV
 Сайт-визитка на HTML + CSS + JS
